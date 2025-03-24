@@ -1,0 +1,45 @@
+footer{
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(178deg, rgba(0, 0, 0, 0.281) 1%, #d1d2df77 99%);
+}
+
+.container-F{
+    padding-left: 60px;
+}
+
+.container-F .aria1{
+    text-align: center;
+    color: #bdbdbd;
+}
+
+.container-F .aria1 hr{
+    width: 50px;
+    margin-left: 46.5%;
+}
+
+.container-F .aria2{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 110px;
+}
+
+.container-F .aria2 ul{
+    list-style: none;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.container-F .aria2 ul li{
+    color: #bdbdbd;
+}
+
+.lastAria{
+    width: 100%;
+    height: 30px;
+    margin-top: 45px;
+    background-color: #d1d2df77;
+    color: rgba(0, 0, 0, 0.692);
+    text-align: center;
+}
+
